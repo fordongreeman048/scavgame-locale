@@ -20,6 +20,7 @@ The [translation notes](./TranslationNotes.md) may provide additional context an
 | File | Locale State | Contributors |
 |------|-------------|--------------|
 | [English (**Reference**)](/EN.json) | N/A | [Orsoniks](https://github.com/Orsoniks) |
+| [Azərbaycanca (Azerbaijani)](/az-AZ.json) | v7.0.1 | [f0RDY](https://github.com/fordongreeman048) |
 | [العربية (العالم العربي)](/ar-001.json) | Outdated | [Enderwolf](https://github.com/Enderw0lf) |
 | [Беларуская (Беларусь)](/be-BY.json) | Outdated | [Russian kid](https://github.com/Russiankids) |
 | [Deutsch (Deutschland)](/de-DE.json) | v7.0.1 | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ), [SnailPerson](https://github.com/SnailPerson) |
